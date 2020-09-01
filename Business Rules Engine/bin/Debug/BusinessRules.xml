@@ -1,0 +1,26 @@
+﻿<Rules>
+
+  <physicalproduct>
+    <action1>packaging slip generated for shipping</action1>
+  </physicalproduct>
+  
+  <book>
+    <action1>duplicate packaging slip generated for royalty department</action1>
+  </book>
+
+  <membership>
+    <action1>membership activated</action1>
+    <action2> Email successfully sent to the owner mail id </action2>
+  </membership>
+
+  <upgrade>
+    <action1>membership upgraded</action1>
+    <action2>Email successfully sent to the owner mail id</action2>
+  </upgrade>
+
+  <video>
+    <action1>generate a packaging slip</action1>
+    <action2>First Aid video attached</action2>
+  </video>
+
+</Rules>

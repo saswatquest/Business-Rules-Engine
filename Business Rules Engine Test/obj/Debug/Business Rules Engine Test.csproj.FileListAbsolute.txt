@@ -1,0 +1,18 @@
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\bin\Debug\BusinessRules.xml
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\bin\Debug\Business Rules Engine Test.dll
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\bin\Debug\Business Rules Engine Test.pdb
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\bin\Debug\Business Rules Engine.exe
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\bin\Debug\Business Rules Engine.pdb
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\bin\Debug\Business Rules Engine.exe.config
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\obj\Debug\Business Rules Engine Test.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\obj\Debug\Business Rules Engine Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\obj\Debug\Business Rules Engine Test.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\obj\Debug\Business Rules Engine Test.dll
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine Test\obj\Debug\Business Rules Engine Test.pdb

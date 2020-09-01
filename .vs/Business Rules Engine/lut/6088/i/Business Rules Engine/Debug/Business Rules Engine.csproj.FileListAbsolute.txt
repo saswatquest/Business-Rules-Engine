@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\Business Rules Engine\.vs\Business Rules Engine\lut\0\b\Business Rules Engine.exe.config
+C:\Users\Administrator\source\repos\Business Rules Engine\.vs\Business Rules Engine\lut\0\b\Business Rules Engine.exe
+C:\Users\Administrator\source\repos\Business Rules Engine\.vs\Business Rules Engine\lut\0\i\Business Rules Engine\Debug\Business Rules Engine.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Business Rules Engine\.vs\Business Rules Engine\lut\0\i\Business Rules Engine\Debug\Business Rules Engine.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Business Rules Engine\.vs\Business Rules Engine\lut\0\i\Business Rules Engine\Debug\Business Rules Engine.exe

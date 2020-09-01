@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Business Rules Engine\.vs\Business Rules Engine\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\source\repos\Business Rules Engine\.vs\Business Rules Engine\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\source\repos\Business Rules Engine\.vs\Business Rules Engine\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\source\repos\Business Rules Engine\.vs\Business Rules Engine\lut\0\b\Business Rules Engine Test.dll
+C:\Users\Administrator\source\repos\Business Rules Engine\.vs\Business Rules Engine\lut\0\i\Business Rules Engine Test\Debug\Business Rules Engine Test.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Business Rules Engine\.vs\Business Rules Engine\lut\0\i\Business Rules Engine Test\Debug\Business Rules Engine Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Business Rules Engine\.vs\Business Rules Engine\lut\0\i\Business Rules Engine Test\Debug\Business Rules Engine Test.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Business Rules Engine\.vs\Business Rules Engine\lut\0\i\Business Rules Engine Test\Debug\Business Rules Engine Test.dll

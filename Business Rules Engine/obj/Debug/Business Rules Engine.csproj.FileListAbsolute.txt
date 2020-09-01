@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine\obj\Debug\Business Rules Engine.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine\bin\Debug\Business Rules Engine.exe.config
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine\bin\Debug\Business Rules Engine.exe
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine\bin\Debug\Business Rules Engine.pdb
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine\obj\Debug\Business Rules Engine.exe
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine\obj\Debug\Business Rules Engine.pdb
+C:\Users\Administrator\source\repos\Business Rules Engine\Business Rules Engine\bin\Debug\BusinessRules.xml
